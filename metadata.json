@@ -1,0 +1,7 @@
+{
+  "name": "Poetique - CIE Exam Grade Analyzer",
+  "description": "Professional literary analysis tool that evaluates poems against CIE marking standards using advanced AI vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
